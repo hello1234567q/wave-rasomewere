@@ -122,7 +122,7 @@ Download and install the latest version of Python 3.<br>
 <br>
 Then do:<br>
 ```Shell
-git clone https://github.com/leonv024/RAASNet.git
+git clone https://github.com/hello1234567q/wave-rasomewere.git
 ```
 
 ```Shell
