@@ -38,7 +38,7 @@
   Ransomware As A Service
 </p>
 
-![alt text](./demo/RAASNET-demo.png)
+![wave](https://github.com/user-attachments/assets/0b3b673d-aa15-4971-924c-25d15f6d0cdf)
 ![alt text](./demo/panel1.png)
 ![alt text](./demo/panel2.png)
 ![alt text](./demo/new_profile.png)
