@@ -130,7 +130,7 @@ pip3 install -r requirements.txt
 ```
 
 ```Shell
-python3 RAASNet.py
+python3 Wave.py
 ```
 
 On Linux, you might need to install these packages:
